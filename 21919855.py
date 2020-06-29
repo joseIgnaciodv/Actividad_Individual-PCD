@@ -3,6 +3,8 @@ import multiprocessing as mp                # Libreria que corresponde con la fu
 import sys
 import time 
 
+# En revisión 
+
 
 #Nombre Autor: Jose Ignacio Del Valle Bustillo
 #Expediente: 21919855
